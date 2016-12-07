@@ -5,6 +5,11 @@ profiles for more objective candidate selection.
 
 ![screenshot of github page with censored username](http://i.imgur.com/yNyq9Ol.png)
 
+Note: You can still see the username in the URL. Can't think of a way around
+that, but [let us
+know](https://github.com/CityOfPhiladelphia/github-blind-screening/issues/new)
+if you can.
+
 ## Installation
 Use **Stylish** to enable this. Stylish is available for
 [chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
