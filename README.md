@@ -3,6 +3,8 @@
 Hides names and pictures from GitHub profiles to allow 'blind screening' of
 profiles for more objective candidate selection.
 
+![screenshot of github page with censored username](http://i.imgur.com/yNyq9Ol.png)
+
 ## Installation
 Use **Stylish** to enable this. Stylish is available for
 [chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
