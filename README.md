@@ -3,7 +3,7 @@
 Hides names and pictures from GitHub profiles to allow 'blind screening' of
 profiles for more objective candidate selection.
 
-![screenshot of github page with censored username](http://i.imgur.com/yNyq9Ol.png)
+![screenshot of github page with censored username](http://i.imgur.com/ZKJ0Vn6.png)
 
 Note: You can still see the username in the URL. Can't think of a way around
 that, but [let us
