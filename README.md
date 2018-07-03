@@ -11,11 +11,12 @@ know](https://github.com/CityOfPhiladelphia/github-blind-screening/issues/new)
 if you can.
 
 ## Installation
-Use **Stylish** to enable this. Stylish is available for
-[chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
-or [firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/).
+~~~Use **Stylish** to enable this. Stylish is available for chrome or firefox.~~~
 
-Once Stylish is installed, you can install these styles from
+EDIT: Stylish [became spyware](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
+Try [Stylus](https://www.ghacks.net/2017/05/16/stylus-is-a-stylish-fork-without-analytics/) instead.
+
+Once ~~~Stylish~~~ Stylus is installed, you can install these styles from
 [userstyles.org](https://userstyles.org/styles/136119/github-blind-screening).
 Alternatively, you can copy & paste the css from `github-blind-screening.css`
-into a new style in the Stylish browser extension manually.
+into a new style in the ~~~Stylish~~~ Stylus browser extension manually.
