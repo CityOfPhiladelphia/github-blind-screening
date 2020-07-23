@@ -19,6 +19,7 @@
   .capped-card h3,
   .network-graph-container,
   .network .repo a:first-of-type,
+  .avatar-user,
   .network .repo .gravatar {
       visibility: hidden;
   }
