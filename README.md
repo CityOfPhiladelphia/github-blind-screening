@@ -11,10 +11,10 @@ know](https://github.com/CityOfPhiladelphia/github-blind-screening/issues/new)
 if you can.
 
 ## Installation
-~~~Use **Stylish** to enable this. Stylish is available for chrome or firefox.~~~
 
-EDIT: Stylish [became spyware](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
-Try [Stylus](https://www.ghacks.net/2017/05/16/stylus-is-a-stylish-fork-without-analytics/) instead.
+Use **Stylus** to enable this. Stylus is available for chrome or firefox.
+
+Note: Stylish [became spyware](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/). Thus, [Stylus](https://www.ghacks.net/2017/05/16/stylus-is-a-stylish-fork-without-analytics/) is recommended instead.
 
 Once ~~~Stylish~~~ Stylus is installed, you can install these styles from
 [userstyles.org](https://userstyles.org/styles/136119/github-blind-screening).
